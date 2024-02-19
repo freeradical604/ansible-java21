@@ -19,7 +19,7 @@ None.
 ```
     - hosts: servers
       roles:
-         - { role: freeradical604.ansible-java21 }
+         - { role: ansible-java21 }
 ```
 ### License
 
