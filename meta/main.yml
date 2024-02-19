@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: Marc Wickenden
-  description: Java 8 Installation for Debian-based OSes
+  description: Java 21 Installation for Debian-based OSes
   company: "4ARMED Limited"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.4

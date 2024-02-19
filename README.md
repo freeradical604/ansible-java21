@@ -1,6 +1,6 @@
-# Java 8 JRE
+# Java 21 JRE
 
-Installs Java8 JRE on a Debian-based Linux host.
+Installs Java21 JRE on a Debian-based Linux host.
 
 ## Requirements
 
@@ -19,7 +19,7 @@ None.
 ```
     - hosts: servers
       roles:
-         - { role: 4ARMED.java8 }
+         - { role: freeradical604.ansible-java21 }
 ```
 ### License
 
